@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Real State Chat Agent n8n</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="welcome_msg">I\'m here to help you find the perfect property in Oman, whether you\'re buying or renting. Simply tell me your preferred location, budget, and needs, and I\'ll guide you to the best options available!</string>
+    <string name="welcome_msg_ar">أنا هنا لمساعدتك في العثور على العقار المثالي في عُمان، سواءً كنت ترغب بالشراء أو الاستئجار. ما عليك سوى إخباري بموقعك المفضل وميزانيتك واحتياجاتك، وسأرشدك إلى أفضل الخيارات المتاحة! 🏠</string>
+
+</resources>
